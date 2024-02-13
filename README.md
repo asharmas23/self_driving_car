@@ -21,7 +21,7 @@ DeepC CAR is an innovative project that brings the dream of self-driving cars in
   [(https://drive.google.com/uc?export=view&id=1pDWPB8knDXa2WCWWj3djhAS_atI9jSaI)](https://drive.google.com/file/d/1pDWPB8knDXa2WCWWj3djhAS_atI9jSaI/view?usp=sharing "Click to View: Real-World Implementation")
 
 - **GTA V Simulation**
-  [GTA V Simulation](https://drive.google.com/uc?export=view&id=1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h)](https://drive.google.com/file/d/1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h/view?usp=drive_link "Click to View: GTA V Simulation")
+  [(https://drive.google.com/uc?export=view&id=1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h)](https://drive.google.com/file/d/1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h/view?usp=drive_link "Click to View: GTA V Simulation")
 
 - **Additional Demonstrations**
   [(https://drive.google.com/uc?export=view&id=1PobrqCokJKmt-AabfhVA2xrdnMUoq9s7)](https://drive.google.com/file/d/1PobrqCokJKmt-AabfhVA2xrdnMUoq9s7/view?usp=drive_link "Click to View: Additional Demonstrations")
