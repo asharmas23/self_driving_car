@@ -15,6 +15,18 @@ DeepC CAR is an innovative project that brings the dream of self-driving cars in
 - **Ultrasonic Sensors (SR-04):** For distance measurement and obstacle detection.
 - **USB Webcam:** Captures live footage for real-time processing by the CNN.
 
+## Demo Videos
+
+- **Real-World Implementation**
+[![Real-World Implementation](https://drive.google.com/uc?export=view&id=1pDWPB8knDXa2WCWWj3djhAS_atI9jSaI)](https://drive.google.com/file/d/1pDWPB8knDXa2WCWWj3djhAS_atI9jSaI/view?usp=sharing "Click to View: Real-World Implementation")
+
+- **GTA V Simulation**
+[![GTA V Simulation](https://drive.google.com/uc?export=view&id=1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h)](https://drive.google.com/file/d/1Rc9Xi1lZeiP6bGrhhp7zJr4KzAZYxp8h/view?usp=drive_link "Click to View: GTA V Simulation")
+
+- **Additional Demonstrations**
+[![Additional Demonstrations](https://drive.google.com/uc?export=view&id=1PobrqCokJKmt-AabfhVA2xrdnMUoq9s7)](https://drive.google.com/file/d/1PobrqCokJKmt-AabfhVA2xrdnMUoq9s7/view?usp=drive_link "Click to View: Additional Demonstrations")
+
+
 ## Use Cases
 1. **Hardware Prototype:** A physical self-driving car model that navigates real-world environments.
 2. **GTA V Control:** Virtual demonstration of the CNN's applicability in controlling a vehicle within the GTA V game, using game frames as input.
